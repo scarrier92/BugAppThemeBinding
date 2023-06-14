@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Bug AppThemeBinding.app/Contents/MacOS/Bug AppThemeBinding">
+      <BCSymbolMapName>Bug AppThemeBinding.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Bug AppThemeBinding.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/samuelcarrier/Projects/Bug AppThemeBinding/Bug AppThemeBinding/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>Bug AppThemeBinding.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/samuelcarrier/Projects/Bug AppThemeBinding/Bug AppThemeBinding</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
